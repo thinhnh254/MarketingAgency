@@ -140,3 +140,86 @@ body {
   color: #605d6c;
   margin-bottom: 50px;
 }
+
+.features-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.features-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 70px;
+  color: #121116;
+}
+
+.features-para {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  color: #605d6c;
+}
+
+.features-text {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 30px;
+  color: #121116;
+}
+
+.features-btn {
+  background: #7557ff;
+  border-radius: 6px;
+  gap: 10px;
+  padding: 15px 35px;
+  width: 174px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 30px;
+  color: #ffffff;
+}
+
+.testimo-text {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 50px;
+  color: #121116;
+}
+
+.testi-box {
+  width: 370px;
+  border-radius: 12px;
+  border: 1px solid #e8e7ec;
+  gap: 10px;
+}
+
+.testi-text-box {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #605d6c;
+  margin: 15px;
+}
+
+.testi-name {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  color: #121116;
+}
+
+.testi-job {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #605d6c;
+}
