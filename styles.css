@@ -89,3 +89,54 @@ body {
 .hinh {
   max-width: 100%;
 }
+
+.service-box {
+  width: 470px;
+  margin: 0 auto;
+}
+
+.service-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 70px;
+}
+
+.service-para {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+}
+
+.box {
+  box-shadow: 0 20px 70px 0 rgba(18, 17, 22, 0.05);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 10px;
+  border-radius: 12px;
+}
+
+.box-image {
+  margin: 50px 0;
+}
+
+.box-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 34px;
+  color: #121116;
+}
+
+.box-text {
+  width: 330px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #605d6c;
+  margin-bottom: 50px;
+}
